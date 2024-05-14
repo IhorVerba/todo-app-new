@@ -22,6 +22,11 @@ The project incorporates the following technologies:
 - Git
 - GitHub
 
+## Additional launch instructions:
+- git clone https://github.com/IhorVerba/todo-app-new.git
+- npm install
+- npm start
+
 ## Contacts
 Ihor Verbivskyi - https://t.me/IhorVerbivskyi - ihor.verbivskyi@gmail.com
 
